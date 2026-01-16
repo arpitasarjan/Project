@@ -2,5 +2,5 @@
 
 
 ```
-print(New Release)
+print(Hello Word)
 ```
